@@ -13,6 +13,19 @@ For Css i used a preprocessor called Stylus.
 
 ## Desktop view
 
+![dkview](https://user-images.githubusercontent.com/52054385/86844503-c8241e80-c06d-11ea-9c47-c463e7138c94.JPG)
 
-[Imgur](https://imgur.com/WZvUplV)
-[Imgur](https://imgur.com/WZvUplV)
+------------
+
+
+## Mobile view
+
+![mbview](https://user-images.githubusercontent.com/52054385/86844773-20f3b700-c06e-11ea-9b4a-4e6f9d736010.JPG)
+
+
+------------
+
+## License:
+The MIT License (MIT)
+
+
