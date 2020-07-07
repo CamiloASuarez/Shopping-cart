@@ -12,4 +12,7 @@ For Css i used a preprocessor called Stylus.
 ------------
 
 ## Desktop view
-[![Desktop View](desktop "Desktop View")](https://ibb.co/2snDXBt "Desktop View")
+
+
+[Imgur](https://imgur.com/WZvUplV)
+[Imgur](https://imgur.com/WZvUplV)
